@@ -2,7 +2,7 @@ This is a Grub theme with Alya
 
 To install first clone the repository
 ```
-git clone https://github.com/0xraincandy/GrubTheme.git
+git clone https://github.com/xkikiyaa/GrubTheme.git
 ```
 then copy the repository to this directory
 ```
