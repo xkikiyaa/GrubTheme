@@ -1,4 +1,4 @@
-This is a Grub theme with Alya
+This is a Grub theme with Ellen Joe
 
 To install first clone the repository
 ```
